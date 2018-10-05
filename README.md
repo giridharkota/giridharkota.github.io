@@ -43,7 +43,8 @@ roles:
    start: 2016
    end: Ongoing
    employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   description:	 Create a CI/CD pipeline in Jenkins, Used Sonar to display the result of test case and configure JForg Artifacts.
+   
  - title: Senior Engineer
    start: 2012
    end: 2016
