@@ -2,9 +2,6 @@
 title: GIRIDHAR KOTA
 name: GIRIDHAR
 
-# Build settings
-markdown: kramdown
-
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
