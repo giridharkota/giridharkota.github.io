@@ -1,24 +1,96 @@
-# NerdAbility - A CV Generator
-A Jekyll based CV page generator based on the user profile page on Nerdability.
+# Site settings
+title: GIRIDHAR KOTA
+name: GIRIDHAR
 
-You can checkout the page generated for this repo here: http://robhinds.github.io
+# Build settings
+markdown: kramdown
 
-A few years agao I helped create a devloper CV webapp that let users sign up and connect lots of online footprints to make a dynamic online CV (formerly nerdability.com, now parked at: http://nerdability.esy.es/ ), and I thought why not just create a static site generated version that re-created the user profile CV.  Luckily, GitHub provides native support for Jekyll sites as part of its user pages (http://{{yourusername}}.github.io), so as well as hosting the Jekyll project on GitHub, it also automatically builds and serves the site for you on a nice share-able URL.
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: http://automateddeveloper.blogspot.com/
+ - title: GitHub
+   url: https://github.com/giridharkota/giridharkota.github.io/
+ - title: LinkedIn
+   url: https:
 
+#Any buzzword skills you want to include
+skills:
+ - AWS
+ - Devops
+ - Spring Boot
+ - Gradle
+ - Java
+ - JPA
+ - SQL
+ - REST
+ - Tech Architecture
 
-## Making your own CV
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 
-To make your own GitHub hosted CV:
+#Work experience is required
+roles:
+ - title: Senior Engineer
+   start: 2016
+   end: Ongoing
+   employer: Emerald Street Ventures
+   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+ - title: Senior Engineer
+   start: 2012
+   end: 2016
+   employer: Covestor
+   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
+ - title: Associate Manager
+   start: 2005
+   end: 2012
+   employer: Accenture
+   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
 
-1. Fork this repo into your github account 
-2. Click the "Settings" button in your new forked repository (in the menu on the right), and change the repository's name to {{yourusername}}.github.io, replacing yourusername with your GitHub user name.
-3. Update /_config.yml with the details of your CV - the comments will explain what is required
-4. Visit http://{{yourusername}}.github.io to check it out
-5. Share your new CV/Profile with the world!
+#Education is required
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2003
+   subject: Artificial Intelligence and Computer Science
+   school: University of Birmingham
 
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Functional Programming Principles in Scala
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: September 16, 2013
+    - title: Algorithms Design and Analysis, Part 1
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: April 28, 2014
 
-If you want to test it locally, install Ruby & Jekyll, clone the repository locally and run "jekyll serve" from the repo root directoy.
+#List of interesting Github repo/projects to include - optional
+github:
+ - robhinds/learning-neural-networks
+ - robhinds/akka-http-rest-api-sample
+ - robhinds/twitter-sentiment-analysis
+ - robhinds/spring-reactor-twitter
+ - robhinds/microservices
+ - robhinds/spring-social-geeklist
+ - robhinds/spring-social-stackoverflow
+ - robhinds/food2vec
+ - robhinds/SpringMongoIntegrationExample
+ - robhinds/SpringNeo4JWebApp
+ - robhinds/AndroidChuckQuiz
+ - robhinds/AndroidRssReader
 
-If you want to host the page on your own web hosting, you will need to run it locally and jekyll will build the site files to the /_site directory which you can then push to your hosting provider - See https://jekyllrb.com/ for details.
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: http://stackoverflow.com/users/258813/rhinds
+   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
-
+#Mobile apps section is optional
+apps:
+ - name: Chuck the Quiz
+   platform: Android
+   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+   description: A basic early Android app (open sourced)
