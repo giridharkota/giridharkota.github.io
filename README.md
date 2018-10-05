@@ -5,24 +5,34 @@ name: GIRIDHAR
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+ 
  - title: GitHub
    url: https://github.com/giridharkota/giridharkota.github.io/
  - title: LinkedIn
-   url: https:
+   url: https: https://www.linkedin.com/in/giridhar-kota/
+   
+#Certification:
+  -	AWS Certified Solutions Architect Associate -ACSAA
+  - HP Cloud Architect system Solutions - HP0-D14 
+  - HP Open view Data Protector 6.0 - HP-0918 
+  - Microsoft Certified System engineer -MCSE
+  - ITIL v4
+
 
 #Any buzzword skills you want to include
 skills:
- - AWS
- - Devops
- - Spring Boot
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Tech Architecture
+ - AWS Architech
+ - GITHUB
+ - Jenkins
+ - Maven
+ - Jfrong
+ - Sonar
+ - Docker
+ - Infrasture support 
+ - Backup and storage
+ - SAP
+ - Bigdata
+  
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
