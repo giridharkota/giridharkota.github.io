@@ -69,9 +69,3 @@ roles:
    end: 2006
    employer: DS UNICS Infotech
    description: Server Management Engineer.
-
-
-
-
-
- 
