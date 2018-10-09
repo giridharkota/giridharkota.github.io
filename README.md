@@ -9,7 +9,7 @@ primarylinks:
  - title: GitHub
    url: https://github.com/giridharkota/giridharkota.github.io/
  - title: LinkedIn
-   url: https: https://www.linkedin.com/in/giridhar-kota/
+   url: https://www.linkedin.com/in/giridhar-kota/
    
 #Certification:
   -	AWS Certified Solutions Architect Associate -ACSAA
