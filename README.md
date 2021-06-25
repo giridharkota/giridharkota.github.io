@@ -1,6 +1,5 @@
-# Site settings
-title: GIRIDHAR KOTA
-name: GIRIDHAR
+# Title: GIRIDHAR KOTA
+
 
 #User specific content
 #Links that will appear in the navbar
