@@ -23,7 +23,7 @@
  - SAP NW /HANA
  - Bigdata - Cloudera
  
-#List of interesting Github repo/projects to include - optional
+#List of interesting Github repo/projects
 github:
  - https://github.com/giridharkota/shell-script
  
