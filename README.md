@@ -1,10 +1,5 @@
-# Title: GIRIDHAR KOTA
+# Title: GIRIDHAR (SAP HANA | BASIS | Azure | Aws | Backup & Storage)
 
-
-#User specific content
-#Links that will appear in the navbar
-primarylinks:
- 
  - title: GitHub
    url: https://github.com/giridharkota/giridharkota.github.io/
  - title: LinkedIn
@@ -21,7 +16,6 @@ primarylinks:
   - ITIL v4
 
 # Skills:
-
  - SAP BASIS , HANA 
  - AWS Architech
  - Infrasture support unix/Linux and windows
@@ -35,7 +29,6 @@ github:
  
   
 # Education:
-
  - level: Master of Science (M.Sc.)
    subject: Masters in Electronics and Communication 
    school: University of Archraya Nagarjuna University
