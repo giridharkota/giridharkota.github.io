@@ -1,4 +1,4 @@
-# Title: GIRIDHAR (SAP HANA | BASIS | Azure | Aws | Backup & Storage)
+# GIRIDHAR (SAP HANA | BASIS | Azure | Aws | Backup & Storage)
 
  - title: GitHub
    url: https://github.com/giridharkota/giridharkota.github.io/
