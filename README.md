@@ -1,8 +1,8 @@
 # GIRIDHAR (SAP HANA | BASIS | Azure | Aws | Backup & Storage)
 
- - title: GitHub
+ - GitHub
    url: https://github.com/giridharkota/giridharkota.github.io/
- - title: LinkedIn
+ - LinkedIn
    url: https://www.linkedin.com/in/giridhar-kota/
    
 # Certification:
@@ -20,8 +20,9 @@
  - AWS Architech
  - Infrasture support unix/Linux and windows
  - Backup and storage
- - SAP NW /HANA
- - Bigdata - Cloudera
+ - Azure
+ - Linux
+ - Windows
  
 #List of interesting Github repo/projects
 github:
