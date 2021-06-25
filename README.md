@@ -49,8 +49,7 @@ education:
    school: University of Archraya Nagarjuna University
 
 
- #Work experience is required
-roles:
+ # Roles:
  - title: Senior Engineer
    start: 2010
    end: Onging 
