@@ -11,8 +11,7 @@ primarylinks:
  - title: LinkedIn
    url: https://www.linkedin.com/in/giridhar-kota/
    
-#Certification:
-
+# Certification:
   -	SAP Certified Technology Specialist - SAP S/4HANA Conversion and SAP System Upgrade
   -	SAP Certified Technology Associate - SAP HANA 2.0 SAP Certified Technology Associate
   -	Azure
@@ -22,8 +21,8 @@ primarylinks:
   - Microsoft Certified System engineer -MCSE
   - ITIL v4
 
-#Any buzzword skills you want to include
-skills:
+# Skills:
+
  - SAP BASIS , HANA 
  - AWS Architech
  - Infrasture support unix/Linux and windows
@@ -36,33 +35,30 @@ github:
  - https://github.com/giridharkota/shell-script
  
   
-#Education is required
-education:
+# Education:
+
  - level: Master of Science (M.Sc.)
-   date: 1999
    subject: Masters in Electronics and Communication 
    school: University of Archraya Nagarjuna University
    
   - level: Bachlore of Science (B.Sc.)
-   date: 1997
    subject: Bachilore in Electronics and Communication 
    school: University of Archraya Nagarjuna University
 
 
  # Roles:
- - title: Senior Engineer
-   start: 2010
+ - Title: Sr Consultant SAP HANA BAISS
+   start: 2012
    end: Onging 
    employer: HPE / EIT / DXC.Technology
-   description:	 Delivery Lead / SME /Lead
-   
- - title: Senior Engineer
+      
+ - Title: Senior Engineer
    start: 2006
    end: 2010
    employer: HP / HPE
    description: ITO Consulant - level 2-3
    
- - title: Associate Manager
+ - title: Server Engineer
    start: 2005
    end: 2006
    employer: DS UNICS Infotech
