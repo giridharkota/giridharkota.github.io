@@ -12,6 +12,10 @@ primarylinks:
    url: https://www.linkedin.com/in/giridhar-kota/
    
 #Certification:
+
+  -	SAP Certified Technology Specialist - SAP S/4HANA Conversion and SAP System Upgrade
+  -	SAP Certified Technology Associate - SAP HANA 2.0 SAP Certified Technology Associate
+  -	Azure
   -	AWS Certified Solutions Architect Associate -ACSAA
   - HP Cloud Architect system Solutions - HP0-D14 
   - HP Open view Data Protector 6.0 - HP-0918 
@@ -20,13 +24,8 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
+ - SAP BASIS , HANA 
  - AWS Architech
- - GITHUB
- - Jenkins
- - Maven
- - Jfrong
- - Sonar
- - Docker
  - Infrasture support unix/Linux and windows
  - Backup and storage
  - SAP NW /HANA
